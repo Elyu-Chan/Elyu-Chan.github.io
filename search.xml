@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>云崽机器人Windows安装教程</title>
+      <link href="/2022/11/29/yunzai%20bot%20windows%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/"/>
+      <url>/2022/11/29/yunzai%20bot%20windows%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/</url>
+      
+        <content type="html"><![CDATA[<h2 id="软件准备"><a href="#软件准备" class="headerlink" title="软件准备"></a>软件准备</h2><p>Git 、Node.js（版本要新，安装时一直下一步）、redis</p><h2 id="安装部分"><a href="#安装部分" class="headerlink" title="安装部分"></a>安装部分</h2><p>1.Git bash后输入<br>git clone <a href="https://gitee.com/Le-niao/Yunzai-Bot.git">https://gitee.com/Le-niao/Yunzai-Bot.git</a><br>以获取本体文件<br>2.启动Redis-sever.exe<br>3.安装pnpm：<br>npm install pnpm -g<br>4.安装依赖<br>pnpm install -P<br>5.cmd 运行 node app启动</p><h2 id="云崽介绍"><a href="#云崽介绍" class="headerlink" title="云崽介绍"></a>云崽介绍</h2><p>云崽，原神qq群机器人，通过米游社接口，查询原神游戏信息，快速生成图片返回开源项目仅供学习交流使用，严禁用于任何商业用途和非法行为！</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>我的博客折腾之路</title>
       <link href="/2022/11/29/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%8A%98%E8%85%BE%E4%B9%8B%E8%B7%AF/"/>
       <url>/2022/11/29/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2%E6%8A%98%E8%85%BE%E4%B9%8B%E8%B7%AF/</url>
@@ -33,17 +46,6 @@
     
     
     <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>link</title>
       <link href="/link/index.html"/>
       <url>/link/index.html</url>
@@ -58,6 +60,17 @@
       <title>关于</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
