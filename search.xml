@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>米游社ck获取帮助</title>
+      <link href="/2022/12/17/%E7%B1%B3%E6%B8%B8%E7%A4%BEck%E8%8E%B7%E5%8F%96%E6%96%B9%E6%B3%95/"/>
+      <url>/2022/12/17/%E7%B1%B3%E6%B8%B8%E7%A4%BEck%E8%8E%B7%E5%8F%96%E6%96%B9%E6%B3%95/</url>
+      
+        <content type="html"><![CDATA[<h2 id="风险提示"><a href="#风险提示" class="headerlink" title="风险提示"></a>风险提示</h2><p> 若非信任机器人，请勿配置，风险自行承担。</p><h2 id="安卓教程-via暂时无法查看ck-等之后再想想办法"><a href="#安卓教程-via暂时无法查看ck-等之后再想想办法" class="headerlink" title="安卓教程(via暂时无法查看ck 等之后再想想办法)"></a>安卓教程(via暂时无法查看ck 等之后再想想办法)</h2><p>1 下载安装via浏览器<br>2 我tm的ck呢？！</p><h2 id="PC端教程（使用edge浏览器）"><a href="#PC端教程（使用edge浏览器）" class="headerlink" title="PC端教程（使用edge浏览器）"></a>PC端教程（使用edge浏览器）</h2><p>1 开启无痕浏览模式（Ctrl+Shift+N）<br><img src="https://lc-gluttony.s3.amazonaws.com/jxAoTGx9FuLN/C9d9Yx51Fv2F7SQMgO7CN5pvq2LD4Led/8IYVXSQ6ME%25G%7ER9SG%5B%60MWZG.png" alt="无痕模式"><br>2 登录米游社（miyoushe.com&#x2F;ys)<br><img src="https://lc-gluttony.s3.amazonaws.com/jxAoTGx9FuLN/sr7Bu1JbxNT7UrV4G0wt3V7UzkRGNvss/646C220BF1245568A9029745BF68FC95.jpg" alt="登录"><br>3 按f12打开开发者工具 ，找到Application（应用），点击Cookie<br><img src="https://lc-gluttony.s3.amazonaws.com/jxAoTGx9FuLN/LuSAQ882ruslDQH1e7f91rz3oGbSgAgb/ZK%7EW%28%7BDA%5BA%5BAWXJ%259%5DTXWU0.png" alt="application"><br>4 把HttpOnly以下所有打✔符号的去掉（鼠标双击后再点一次）<br><img src="https://lc-gluttony.s3.amazonaws.com/jxAoTGx9FuLN/CbFEkruAn2YC8Pm72CzFN6GaEFpFK4jP/VZB%608TB%40U%243IO%7BTOT%5D%28%296KN.png" alt="取消勾选"><br>5 回到控制台 输入document.cookie后回车<br><img src="https://lc-gluttony.s3.amazonaws.com/jxAoTGx9FuLN/23LsnVWFCBlJMkcXb2YnAXE0DwcYrAW2/43E516F8764F2038142F4DF36D5B3794.jpg" alt="获取ck"> </p><h2 id="ck含有account-mid-v2，cookie-token-v2，ltoken-v2等字段即为成功"><a href="#ck含有account-mid-v2，cookie-token-v2，ltoken-v2等字段即为成功" class="headerlink" title="ck含有account_mid_v2，cookie_token_v2，ltoken_v2等字段即为成功"></a>ck含有account_mid_v2，cookie_token_v2，ltoken_v2等字段即为成功</h2>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>一些奇怪或者实用的网站（持续更新。。。）</title>
       <link href="/2022/11/30/%E7%BD%91%E7%AB%99%E5%88%86%E4%BA%AB/"/>
       <url>/2022/11/30/%E7%BD%91%E7%AB%99%E5%88%86%E4%BA%AB/</url>
@@ -72,22 +85,22 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title></title>
+      <link href="/css/custom.css"/>
+      <url>/css/custom.css</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[/* 页脚与头图透明 */#footer {    background: transparent !important;  }  #page-header {    background: transparent !important;  }    /* 白天模式遮罩透明 */  #footer::before {    background: transparent !important;  }  #page-header::before {    background: transparent !important;  }    /* 夜间模式遮罩透明 */  [data-theme="dark"] #footer::before {    background: transparent !important;  }  [data-theme="dark"] #page-header::before {    background: transparent !important;  }/* 翻页按钮居中 */#pagination {    width: 100%;    margin: auto;  }  /* 侧边栏个人信息卡片动态渐变色 */#aside-content > .card-widget.card-info {    background: linear-gradient(      -45deg,      #e8d8b9,      #eccec5,      #a3e9eb,      #bdbdf0,      #eec1ea    );    box-shadow: 0 0 5px rgb(66, 68, 68);    position: relative;    background-size: 400% 400%;    -webkit-animation: Gradient 10s ease infinite;    -moz-animation: Gradient 10s ease infinite;    animation: Gradient 10s ease infinite !important;  }  @-webkit-keyframes Gradient {    0% {      background-position: 0% 50%;    }    50% {      background-position: 100% 50%;    }    100% {      background-position: 0% 50%;    }  }  @-moz-keyframes Gradient {    0% {      background-position: 0% 50%;    }    50% {      background-position: 100% 50%;    }    100% {      background-position: 0% 50%;    }  }  @keyframes Gradient {    0% {      background-position: 0% 50%;    }    50% {      background-position: 100% 50%;    }    100% {      background-position: 0% 50%;    }  }    /* 黑夜模式适配 */  [data-theme="dark"] #aside-content > .card-widget.card-info {    background: #191919ee;  }    /* 个人信息Follow me按钮 */  #aside-content > .card-widget.card-info > #card-info-btn {    background-color: #3eb8be;    border-radius: 8px;  }]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title></title>
-      <link href="/css/custom.css"/>
-      <url>/css/custom.css</url>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[/* 页脚与头图透明 */#footer {    background: transparent !important;  }  #page-header {    background: transparent !important;  }    /* 白天模式遮罩透明 */  #footer::before {    background: transparent !important;  }  #page-header::before {    background: transparent !important;  }    /* 夜间模式遮罩透明 */  [data-theme="dark"] #footer::before {    background: transparent !important;  }  [data-theme="dark"] #page-header::before {    background: transparent !important;  }/* 翻页按钮居中 */#pagination {    width: 100%;    margin: auto;  }  /* 侧边栏个人信息卡片动态渐变色 */#aside-content > .card-widget.card-info {    background: linear-gradient(      -45deg,      #e8d8b9,      #eccec5,      #a3e9eb,      #bdbdf0,      #eec1ea    );    box-shadow: 0 0 5px rgb(66, 68, 68);    position: relative;    background-size: 400% 400%;    -webkit-animation: Gradient 10s ease infinite;    -moz-animation: Gradient 10s ease infinite;    animation: Gradient 10s ease infinite !important;  }  @-webkit-keyframes Gradient {    0% {      background-position: 0% 50%;    }    50% {      background-position: 100% 50%;    }    100% {      background-position: 0% 50%;    }  }  @-moz-keyframes Gradient {    0% {      background-position: 0% 50%;    }    50% {      background-position: 100% 50%;    }    100% {      background-position: 0% 50%;    }  }  @keyframes Gradient {    0% {      background-position: 0% 50%;    }    50% {      background-position: 100% 50%;    }    100% {      background-position: 0% 50%;    }  }    /* 黑夜模式适配 */  [data-theme="dark"] #aside-content > .card-widget.card-info {    background: #191919ee;  }    /* 个人信息Follow me按钮 */  #aside-content > .card-widget.card-info > #card-info-btn {    background-color: #3eb8be;    border-radius: 8px;  }]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
