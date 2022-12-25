@@ -69,6 +69,19 @@
     
     
     <entry>
+      <title>往世乐土原神代肝</title>
+      <link href="/2022/11/28/%E4%BB%A3%E8%82%9D%E4%BB%B7%E7%9B%AE%E8%A1%A8/"/>
+      <url>/2022/11/28/%E4%BB%A3%E8%82%9D%E4%BB%B7%E7%9B%AE%E8%A1%A8/</url>
+      
+        <content type="html"><![CDATA[<h2 id="日常"><a href="#日常" class="headerlink" title="日常"></a>日常</h2><p>名称 时长&#x2F;数量 价格<br>委托 30天 40CNY<br>体力 30天 45CNY<br>委托+体力 30天 72CNY<br>深渊 36星 35CNY（视具体练度）<br>深渊 33星 25CNY（视具体练度）</p><h2 id="神瞳"><a href="#神瞳" class="headerlink" title="神瞳"></a>神瞳</h2><p>名称 时长&#x2F;数量 价格<br>风神瞳 全部 35CNY<br>岩神瞳 全部 60CNY<br>雷神瞳 全部 95CNY<br>草神瞳 全部 118CNY<br>风神瞳(需共鸣石) 1个 0.5CNY<br>岩神瞳(需共鸣石) 1个 0.8CNY<br>雷神瞳(需共鸣石) 1个 1.2CNY</p><h2 id="任务"><a href="#任务" class="headerlink" title="任务"></a>任务</h2><p>名称 时长&#x2F;数量 价格<br>蒙德&#x2F;璃月 主线 1幕 12CNY<br>稻妻&#x2F;须弥 主线 1幕 15CNY<br>传说任务 1幕 12CNY<br>邀约任务 1幕 18CNY<br>世界任务 1幕 5-30CNY(根据大小定价)<br>注：是一幕不是一章哦</p><h2 id="地区特产"><a href="#地区特产" class="headerlink" title="地区特产"></a>地区特产</h2><p>名称 时长&#x2F;数量 价格<br>忍冬之树 1级 5CNY<br>神樱树 1级 8CNY<br>流明石触媒 1级 4CNY(地图没开主线没过要加钱)<br>梦之树 1级 5CNY</p><h2 id="材料"><a href="#材料" class="headerlink" title="材料"></a>材料</h2><p>名称 时长&#x2F;数量 价格<br>特产 1个 0.3-0.8CNY<br>白色掉落物 1个 0.2CNY<br>绿色掉落物 1个 0.5CNY<br>蓝色掉落物 1个 1.2CNY<br>矿石 100个 12CNY</p><h2 id="活动"><a href="#活动" class="headerlink" title="活动"></a>活动</h2><p>名称 时长&#x2F;数量 价格<br>小型活动 1期 20CNY<br>中型活动 1期 30CNY<br>大型活动 1期 40CNY</p><h2 id="须知："><a href="#须知：" class="headerlink" title="须知："></a>须知：</h2><p>一切代肝业务仅支持开始前退款<br>所有业务都是纯手打，可开播可录屏<br>练度极低号部分内容需另加钱<br>联系QQ：2965390931（标明来意）</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>这是小缠的个人博客</title>
       <link href="/2022/11/28/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
       <url>/2022/11/28/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
@@ -85,22 +98,22 @@
     
     
     <entry>
-      <title></title>
-      <link href="/css/custom.css"/>
-      <url>/css/custom.css</url>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[/* 页脚与头图透明 */#footer {    background: transparent !important;  }  #page-header {    background: transparent !important;  }    /* 白天模式遮罩透明 */  #footer::before {    background: transparent !important;  }  #page-header::before {    background: transparent !important;  }    /* 夜间模式遮罩透明 */  [data-theme="dark"] #footer::before {    background: transparent !important;  }  [data-theme="dark"] #page-header::before {    background: transparent !important;  }/* 翻页按钮居中 */#pagination {    width: 100%;    margin: auto;  }  /* 侧边栏个人信息卡片动态渐变色 */#aside-content > .card-widget.card-info {    background: linear-gradient(      -45deg,      #e8d8b9,      #eccec5,      #a3e9eb,      #bdbdf0,      #eec1ea    );    box-shadow: 0 0 5px rgb(66, 68, 68);    position: relative;    background-size: 400% 400%;    -webkit-animation: Gradient 10s ease infinite;    -moz-animation: Gradient 10s ease infinite;    animation: Gradient 10s ease infinite !important;  }  @-webkit-keyframes Gradient {    0% {      background-position: 0% 50%;    }    50% {      background-position: 100% 50%;    }    100% {      background-position: 0% 50%;    }  }  @-moz-keyframes Gradient {    0% {      background-position: 0% 50%;    }    50% {      background-position: 100% 50%;    }    100% {      background-position: 0% 50%;    }  }  @keyframes Gradient {    0% {      background-position: 0% 50%;    }    50% {      background-position: 100% 50%;    }    100% {      background-position: 0% 50%;    }  }    /* 黑夜模式适配 */  [data-theme="dark"] #aside-content > .card-widget.card-info {    background: #191919ee;  }    /* 个人信息Follow me按钮 */  #aside-content > .card-widget.card-info > #card-info-btn {    background-color: #3eb8be;    border-radius: 8px;  }]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title></title>
+      <link href="/css/custom.css"/>
+      <url>/css/custom.css</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[/* 页脚与头图透明 */#footer {    background: transparent !important;  }  #page-header {    background: transparent !important;  }    /* 白天模式遮罩透明 */  #footer::before {    background: transparent !important;  }  #page-header::before {    background: transparent !important;  }    /* 夜间模式遮罩透明 */  [data-theme="dark"] #footer::before {    background: transparent !important;  }  [data-theme="dark"] #page-header::before {    background: transparent !important;  }/* 翻页按钮居中 */#pagination {    width: 100%;    margin: auto;  }  /* 侧边栏个人信息卡片动态渐变色 */#aside-content > .card-widget.card-info {    background: linear-gradient(      -45deg,      #e8d8b9,      #eccec5,      #a3e9eb,      #bdbdf0,      #eec1ea    );    box-shadow: 0 0 5px rgb(66, 68, 68);    position: relative;    background-size: 400% 400%;    -webkit-animation: Gradient 10s ease infinite;    -moz-animation: Gradient 10s ease infinite;    animation: Gradient 10s ease infinite !important;  }  @-webkit-keyframes Gradient {    0% {      background-position: 0% 50%;    }    50% {      background-position: 100% 50%;    }    100% {      background-position: 0% 50%;    }  }  @-moz-keyframes Gradient {    0% {      background-position: 0% 50%;    }    50% {      background-position: 100% 50%;    }    100% {      background-position: 0% 50%;    }  }  @keyframes Gradient {    0% {      background-position: 0% 50%;    }    50% {      background-position: 100% 50%;    }    100% {      background-position: 0% 50%;    }  }    /* 黑夜模式适配 */  [data-theme="dark"] #aside-content > .card-widget.card-info {    background: #191919ee;  }    /* 个人信息Follow me按钮 */  #aside-content > .card-widget.card-info > #card-info-btn {    background-color: #3eb8be;    border-radius: 8px;  }]]></content>
       
     </entry>
     
