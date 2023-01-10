@@ -4,11 +4,37 @@
   
     
     <entry>
+      <title>机场推荐</title>
+      <link href="/2023/01/10/%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90/"/>
+      <url>/2023/01/10/%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90/</url>
+      
+        <content type="html"><![CDATA[<h2 id="佬们整理的。。。"><a href="#佬们整理的。。。" class="headerlink" title="佬们整理的。。。"></a>佬们整理的。。。</h2><p>没钱的话：<a href="https://ikuuu.dev/auth/register?code=MVla">https://ikuuu.dev/auth/register?code=MVla</a>  &#x2F;&#x2F;不是很推荐<br>稍微有钱：<a href="https://一元机场.com/#/register?code=dKbJPc6f">https://xn--4gq62f52gdss.com/#/register?code=dKbJPc6f</a>  &#x2F;&#x2F;一元机场，便宜大碗，推荐<br>有钱的话：<a href="https://shuttle.gt-in.com/aff.php?aff=3131">https://shuttle.gt-in.com/aff.php?aff=3131</a>&#x2F;&#x2F;真几把贵，但真几把好使，不差钱上，并且原神国际服稳定登陆的话，也只能用这个<br>按流量算：<a href="https://mojie.cyou/#/register?code=HYrnRIY2">https://mojie.cyou/#/register?code=HYrnRIY2</a>  &#x2F;&#x2F;群友推荐，自行尝试<br>按流量算：<a href="https://vip2.zlinweb.com/auth/register?code=opk8">https://vip2.zlinweb.com/auth/register?code=opk8</a> &#x2F;&#x2F;按量购买的，鲸泽佬推荐<br>后面的code&#x3D;MVla类似物是返利邀请码，你们买套餐也不加钱，就是给占卜任（前几个）或者鲸泽佬（后一个）或群一位群友（后二个）买套餐减点钱，可自行删除</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>一些奇怪或者实用的网站（持续更新。。。）</title>
       <link href="/2022/11/30/%E7%BD%91%E7%AB%99%E5%88%86%E4%BA%AB/"/>
       <url>/2022/11/30/%E7%BD%91%E7%AB%99%E5%88%86%E4%BA%AB/</url>
       
         <content type="html"><![CDATA[<h2 id="鸡乐盒"><a href="#鸡乐盒" class="headerlink" title="鸡乐盒"></a>鸡乐盒</h2><p><a href="http://jilehe.125ks.cn/Voice/jlh/">http://jilehe.125ks.cn/Voice/jlh/</a></p><h2 id="Easy-link（在线免费图片生成链接）"><a href="#Easy-link（在线免费图片生成链接）" class="headerlink" title="Easy link（在线免费图片生成链接）"></a>Easy link（在线免费图片生成链接）</h2><p><a href="https://imgse.com/">https://imgse.com/</a></p><h2 id="Gamebanana（游戏mod网站，记得挂梯子）"><a href="#Gamebanana（游戏mod网站，记得挂梯子）" class="headerlink" title="Gamebanana（游戏mod网站，记得挂梯子）"></a>Gamebanana（游戏mod网站，记得挂梯子）</h2><p><a href="https://gamebanana.com/">https://gamebanana.com/</a></p><h2 id="橡皮擦（图片擦除器）"><a href="#橡皮擦（图片擦除器）" class="headerlink" title="橡皮擦（图片擦除器）"></a>橡皮擦（图片擦除器）</h2><p><a href="https://www.magiceraser.io/">https://www.magiceraser.io</a></p><h2 id="椰羊（原神成就管理网站）"><a href="#椰羊（原神成就管理网站）" class="headerlink" title="椰羊（原神成就管理网站）"></a>椰羊（原神成就管理网站）</h2><p><a href="https://cocogoat.work/">https://cocogoat.work/</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>云崽机器人Windows安装教程</title>
+      <link href="/2022/11/29/yunzai%20bot%20windows%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/"/>
+      <url>/2022/11/29/yunzai%20bot%20windows%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/</url>
+      
+        <content type="html"><![CDATA[<h2 id="软件准备"><a href="#软件准备" class="headerlink" title="软件准备"></a>软件准备</h2><p>Git 、Node.js（版本要新，安装时一直下一步）、redis</p><h2 id="安装部分"><a href="#安装部分" class="headerlink" title="安装部分"></a>安装部分</h2><p>1.Git bash后输入</p><p><code>git clone https://gitee.com/Le-niao/Yunzai-Bot.git</code></p><p>以获取本体文件</p><p>2.启动Redis-sever.exe</p><p>3.安装pnpm：</p><p><code>npm install pnpm -g</code></p><p>4.安装依赖 </p><p><code>pnpm install -P</code></p><p>5.cmd 运行 node app启动</p><h2 id="云崽介绍"><a href="#云崽介绍" class="headerlink" title="云崽介绍"></a>云崽介绍</h2><p>云崽，原神qq群机器人，通过米游社接口，查询原神游戏信息，快速生成图片返回开源项目仅供学习交流使用，严禁用于任何商业用途和非法行为！</p>]]></content>
       
       
       
@@ -30,11 +56,11 @@
     
     
     <entry>
-      <title>云崽机器人Windows安装教程</title>
-      <link href="/2022/11/29/yunzai%20bot%20windows%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/"/>
-      <url>/2022/11/29/yunzai%20bot%20windows%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/</url>
+      <title>往世乐土原神代肝</title>
+      <link href="/2022/11/28/%E4%BB%A3%E8%82%9D%E4%BB%B7%E7%9B%AE%E8%A1%A8/"/>
+      <url>/2022/11/28/%E4%BB%A3%E8%82%9D%E4%BB%B7%E7%9B%AE%E8%A1%A8/</url>
       
-        <content type="html"><![CDATA[<h2 id="软件准备"><a href="#软件准备" class="headerlink" title="软件准备"></a>软件准备</h2><p>Git 、Node.js（版本要新，安装时一直下一步）、redis</p><h2 id="安装部分"><a href="#安装部分" class="headerlink" title="安装部分"></a>安装部分</h2><p>1.Git bash后输入<br>git clone <a href="https://gitee.com/Le-niao/Yunzai-Bot.git">https://gitee.com/Le-niao/Yunzai-Bot.git</a><br>以获取本体文件<br>2.启动Redis-sever.exe<br>3.安装pnpm：<br>npm install pnpm -g<br>4.安装依赖<br>pnpm install -P<br>5.cmd 运行 node app启动</p><h2 id="云崽介绍"><a href="#云崽介绍" class="headerlink" title="云崽介绍"></a>云崽介绍</h2><p>云崽，原神qq群机器人，通过米游社接口，查询原神游戏信息，快速生成图片返回开源项目仅供学习交流使用，严禁用于任何商业用途和非法行为！</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="日常"><a href="#日常" class="headerlink" title="日常"></a>日常</h2><p>名称 时长&#x2F;数量 价格<br>委托 30天 40CNY<br>体力 30天 45CNY<br>委托+体力 30天 72CNY<br>深渊 36星 35CNY（视具体练度）<br>深渊 33星 25CNY（视具体练度）</p><h2 id="神瞳"><a href="#神瞳" class="headerlink" title="神瞳"></a>神瞳</h2><p>名称 时长&#x2F;数量 价格<br>风神瞳 全部 35CNY<br>岩神瞳 全部 60CNY<br>雷神瞳 全部 95CNY<br>草神瞳 全部 118CNY<br>风神瞳(需共鸣石) 1个 0.5CNY<br>岩神瞳(需共鸣石) 1个 0.8CNY<br>雷神瞳(需共鸣石) 1个 1.2CNY</p><h2 id="任务"><a href="#任务" class="headerlink" title="任务"></a>任务</h2><p>名称 时长&#x2F;数量 价格<br>蒙德&#x2F;璃月 主线 1幕 12CNY<br>稻妻&#x2F;须弥 主线 1幕 15CNY<br>传说任务 1幕 12CNY<br>邀约任务 1幕 18CNY<br>世界任务 1幕 5-30CNY(根据大小定价)<br>注：是一幕不是一章哦</p><h2 id="地区特产"><a href="#地区特产" class="headerlink" title="地区特产"></a>地区特产</h2><p>名称 时长&#x2F;数量 价格<br>忍冬之树 1级 5CNY<br>神樱树 1级 8CNY<br>流明石触媒 1级 4CNY(地图没开主线没过要加钱)<br>梦之树 1级 5CNY</p><h2 id="材料"><a href="#材料" class="headerlink" title="材料"></a>材料</h2><p>名称 时长&#x2F;数量 价格<br>特产 1个 0.3-0.8CNY<br>白色掉落物 1个 0.2CNY<br>绿色掉落物 1个 0.5CNY<br>蓝色掉落物 1个 1.2CNY<br>矿石 100个 12CNY</p><h2 id="活动"><a href="#活动" class="headerlink" title="活动"></a>活动</h2><p>名称 时长&#x2F;数量 价格<br>小型活动 1期 20CNY<br>中型活动 1期 30CNY<br>大型活动 1期 40CNY</p><h2 id="须知："><a href="#须知：" class="headerlink" title="须知："></a>须知：</h2><p>一切代肝业务仅支持开始前退款<br>所有业务都是纯手打，可开播可录屏<br>练度极低号部分内容需另加钱<br>联系QQ：2965390931（标明来意）</p>]]></content>
       
       
       
@@ -54,21 +80,19 @@
     </entry>
     
     
+  
+  
+    
     
     <entry>
-      <title>往世乐土原神代肝</title>
-      <link href="/2022/11/28/%E4%BB%A3%E8%82%9D%E4%BB%B7%E7%9B%AE%E8%A1%A8/"/>
-      <url>/2022/11/28/%E4%BB%A3%E8%82%9D%E4%BB%B7%E7%9B%AE%E8%A1%A8/</url>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[<h2 id="日常"><a href="#日常" class="headerlink" title="日常"></a>日常</h2><p>名称 时长&#x2F;数量 价格<br>委托 30天 40CNY<br>体力 30天 45CNY<br>委托+体力 30天 72CNY<br>深渊 36星 35CNY（视具体练度）<br>深渊 33星 25CNY（视具体练度）</p><h2 id="神瞳"><a href="#神瞳" class="headerlink" title="神瞳"></a>神瞳</h2><p>名称 时长&#x2F;数量 价格<br>风神瞳 全部 35CNY<br>岩神瞳 全部 60CNY<br>雷神瞳 全部 95CNY<br>草神瞳 全部 118CNY<br>风神瞳(需共鸣石) 1个 0.5CNY<br>岩神瞳(需共鸣石) 1个 0.8CNY<br>雷神瞳(需共鸣石) 1个 1.2CNY</p><h2 id="任务"><a href="#任务" class="headerlink" title="任务"></a>任务</h2><p>名称 时长&#x2F;数量 价格<br>蒙德&#x2F;璃月 主线 1幕 12CNY<br>稻妻&#x2F;须弥 主线 1幕 15CNY<br>传说任务 1幕 12CNY<br>邀约任务 1幕 18CNY<br>世界任务 1幕 5-30CNY(根据大小定价)<br>注：是一幕不是一章哦</p><h2 id="地区特产"><a href="#地区特产" class="headerlink" title="地区特产"></a>地区特产</h2><p>名称 时长&#x2F;数量 价格<br>忍冬之树 1级 5CNY<br>神樱树 1级 8CNY<br>流明石触媒 1级 4CNY(地图没开主线没过要加钱)<br>梦之树 1级 5CNY</p><h2 id="材料"><a href="#材料" class="headerlink" title="材料"></a>材料</h2><p>名称 时长&#x2F;数量 价格<br>特产 1个 0.3-0.8CNY<br>白色掉落物 1个 0.2CNY<br>绿色掉落物 1个 0.5CNY<br>蓝色掉落物 1个 1.2CNY<br>矿石 100个 12CNY</p><h2 id="活动"><a href="#活动" class="headerlink" title="活动"></a>活动</h2><p>名称 时长&#x2F;数量 价格<br>小型活动 1期 20CNY<br>中型活动 1期 30CNY<br>大型活动 1期 40CNY</p><h2 id="须知："><a href="#须知：" class="headerlink" title="须知："></a>须知：</h2><p>一切代肝业务仅支持开始前退款<br>所有业务都是纯手打，可开播可录屏<br>练度极低号部分内容需另加钱<br>联系QQ：2965390931（标明来意）</p>]]></content>
-      
-      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
-    
-  
-  
     
     
     <entry>
@@ -94,11 +118,11 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>修复中</title>
+      <link href="/photo/index.html"/>
+      <url>/photo/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p> easylink炸了 数据丢失</p>]]></content>
       
     </entry>
     
@@ -121,17 +145,6 @@
       <url>/movies/index.html</url>
       
         <content type="html"><![CDATA[<h2 id="四水队速通无相交响诗无相火"><a href="#四水队速通无相交响诗无相火" class="headerlink" title="四水队速通无相交响诗无相火"></a>四水队速通无相交响诗无相火</h2><iframe     width="800"     height="450"     src='https://player.bilibili.com/player.html?aid=433053551&bvid=BV1TG411F7Mr&cid=903401026&page=1'    frameborder="0"     allowfullscreen></iframe><h2 id="致每一位追番人-作者：ll且yy"><a href="#致每一位追番人-作者：ll且yy" class="headerlink" title="致每一位追番人 作者：ll且yy"></a>致每一位追番人 作者：ll且yy</h2><iframe     width="800"     height="450"     src='https://player.bilibili.com/player.html?aid=217671154&bvid=BV1Ka41137oX&cid=824110591&page=1'    frameborder="0"     allowfullscreen></iframe>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>修复中</title>
-      <link href="/photo/index.html"/>
-      <url>/photo/index.html</url>
-      
-        <content type="html"><![CDATA[<p> easylink炸了 数据丢失</p>]]></content>
       
     </entry>
     
