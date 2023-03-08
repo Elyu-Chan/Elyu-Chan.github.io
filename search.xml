@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>云崽换源以及后续报错处理方法</title>
+      <link href="/2023/03/08/%E4%BA%91%E5%B4%BD%E6%8D%A2%E6%BA%90%E4%BB%A5%E5%8F%8A%E5%90%8E%E7%BB%AD%E6%8A%A5%E9%94%99%E5%A4%84%E7%90%86%E6%96%B9%E6%B3%95/"/>
+      <url>/2023/03/08/%E4%BA%91%E5%B4%BD%E6%8D%A2%E6%BA%90%E4%BB%A5%E5%8F%8A%E5%90%8E%E7%BB%AD%E6%8A%A5%E9%94%99%E5%A4%84%E7%90%86%E6%96%B9%E6%B3%95/</url>
+      
+        <content type="html"><![CDATA[<h2 id="前言（所有内容是对大佬们给的解决方案的整合）"><a href="#前言（所有内容是对大佬们给的解决方案的整合）" class="headerlink" title="前言（所有内容是对大佬们给的解决方案的整合）"></a>前言（所有内容是对大佬们给的解决方案的整合）</h2><p>云崽作者由于GitHub库被微软无故封禁，已不再更新云崽，现由miao-plugin作者喵喵接管维护，云崽根目录终端输入以下指令换成喵喵分支</p><h2 id="换源具体方法"><a href="#换源具体方法" class="headerlink" title="换源具体方法"></a>换源具体方法</h2><p>Linux云崽换仓库源，在你安装了云崽的用户根目录下执行<br>cd Yunzai-Bot&#x2F; &amp;&amp; git remote set-url origin <a href="https://gitee.com/yoimiya-kokomi/Yunzai-Bot">https://gitee.com/yoimiya-kokomi/Yunzai-Bot</a> &amp;&amp; git pull<br>最后更新一下依赖pnpm install -P</p><p>Windows打开git bash，在云崽目录下执行：<br>git remote set-url origin <a href="https://gitee.com/yoimiya-kokomi/Yunzai-Bot">https://gitee.com/yoimiya-kokomi/Yunzai-Bot</a><br>然后输入git pull回车更新<br>最后更新一下依赖pnpm install -P</p><h2 id="报错处理"><a href="#报错处理" class="headerlink" title="报错处理"></a>报错处理</h2><p>1 Chromium启动失败（前台处理应该没有这个情况了）<br><img src="https://cdn.staticaly.com/gh/Elyu-Chan/ati-pic@main/img/@KZ6%60W%7B6[Z9NDF5QA%60%Y2GO.bmp" alt="前台处理应该没有这个情况了"><br>将文件内的puppetee改为13.7.0后安装装依赖pnpm install -P<br>2 pm2报错<br>删除上一级目录.pm2（在用户文件夹里)</p><p><img src="https://cdn.staticaly.com/gh/Elyu-Chan/ati-pic@main/img/123456.bmp" alt="重启报错"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>机场推荐</title>
       <link href="/2023/01/10/%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90/"/>
       <url>/2023/01/10/%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90/</url>
@@ -85,17 +98,6 @@
     
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title></title>
       <link href="/css/custom.css"/>
       <url>/css/custom.css</url>
@@ -107,22 +109,22 @@
     
     
     <entry>
-      <title>原神实用工具</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[<h2 id="疯物之琴"><a href="#疯物之琴" class="headerlink" title="疯物之琴"></a>疯物之琴</h2><p><a href="https://share.weiyun.com/KcKvjo7e">https://share.weiyun.com/KcKvjo7e</a></p><h2 id="自动钓鱼机"><a href="#自动钓鱼机" class="headerlink" title="自动钓鱼机"></a>自动钓鱼机</h2><p><a href="https://share.weiyun.com/AmCPNPaz">https://share.weiyun.com/AmCPNPaz</a></p>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>link</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>一些瞎折腾的视频</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h2 id="四水队速通无相交响诗无相火"><a href="#四水队速通无相交响诗无相火" class="headerlink" title="四水队速通无相交响诗无相火"></a>四水队速通无相交响诗无相火</h2><iframe     width="800"     height="450"     src='https://player.bilibili.com/player.html?aid=433053551&bvid=BV1TG411F7Mr&cid=903401026&page=1'    frameborder="0"     allowfullscreen></iframe><h2 id="致每一位追番人-作者：ll且yy"><a href="#致每一位追番人-作者：ll且yy" class="headerlink" title="致每一位追番人 作者：ll且yy"></a>致每一位追番人 作者：ll且yy</h2><iframe     width="800"     height="450"     src='https://player.bilibili.com/player.html?aid=217671154&bvid=BV1Ka41137oX&cid=824110591&page=1'    frameborder="0"     allowfullscreen></iframe>]]></content>
       
     </entry>
     
@@ -140,11 +142,22 @@
     
     
     <entry>
-      <title>一些瞎折腾的视频</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
+      <title>link</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
-        <content type="html"><![CDATA[<h2 id="四水队速通无相交响诗无相火"><a href="#四水队速通无相交响诗无相火" class="headerlink" title="四水队速通无相交响诗无相火"></a>四水队速通无相交响诗无相火</h2><iframe     width="800"     height="450"     src='https://player.bilibili.com/player.html?aid=433053551&bvid=BV1TG411F7Mr&cid=903401026&page=1'    frameborder="0"     allowfullscreen></iframe><h2 id="致每一位追番人-作者：ll且yy"><a href="#致每一位追番人-作者：ll且yy" class="headerlink" title="致每一位追番人 作者：ll且yy"></a>致每一位追番人 作者：ll且yy</h2><iframe     width="800"     height="450"     src='https://player.bilibili.com/player.html?aid=217671154&bvid=BV1Ka41137oX&cid=824110591&page=1'    frameborder="0"     allowfullscreen></iframe>]]></content>
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>原神实用工具</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="疯物之琴"><a href="#疯物之琴" class="headerlink" title="疯物之琴"></a>疯物之琴</h2><p><a href="https://share.weiyun.com/KcKvjo7e">https://share.weiyun.com/KcKvjo7e</a></p><h2 id="自动钓鱼机"><a href="#自动钓鱼机" class="headerlink" title="自动钓鱼机"></a>自动钓鱼机</h2><p><a href="https://share.weiyun.com/AmCPNPaz">https://share.weiyun.com/AmCPNPaz</a></p>]]></content>
       
     </entry>
     
